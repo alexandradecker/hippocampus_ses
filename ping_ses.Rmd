@@ -6,7 +6,7 @@ editor_options:
 ---
  
 #### Analyses to asses the relationship between income and episodic memory and language ####
-123
+test 2
 The relationship between income and episodic memory was tested using a linear model. The log of income was the predictor variable, and the dependent variable was episodic memory scores. Age and sex were included as covariates. Age was mean centered ad sex was effect coded.
 
 ```{r}
